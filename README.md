@@ -1,3 +1,7 @@
+# Cliente
+
+consumo, conguracion e instalación de sockets.io a un server express, Envió y lectura de mensajes.
+
 # Basico
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.8.
