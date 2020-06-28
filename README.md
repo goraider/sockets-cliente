@@ -1,6 +1,6 @@
 # Cliente
 
-consumo, conguracion e instalación de sockets.io a un server express, Envió y lectura de mensajes.
+configuración e instalación y consumo de sockets.io a un server express, Envió y lectura de mensajes.
 
 # Basico
 
